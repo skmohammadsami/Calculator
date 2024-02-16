@@ -14,4 +14,4 @@ The code defines four functions for basic arithmetic operations: add, subtract, 
 Overall, this code provides a simple and interactive calculator that allows users to perform basic arithmetic operations on two numbers.
 covert the theory into simple format with same meaning
 
-ChatGPT
+
